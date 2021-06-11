@@ -1,0 +1,31 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar{
+  background-color: #4D586F; 
+}
+
+.quem-somos{
+    background-color: #CAE3D0;
+    color: #182238;
+}
+
+.margin{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: #4D586F;;
+    padding-bottom: 30px;
+    padding-top: 15px
+}
+
+.bg-footer{
+    background-color: rgb(29, 13, 54);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+    font-size: small;
+    padding: 2px;
+}
